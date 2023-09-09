@@ -1,4 +1,4 @@
-<h1 align="center">Web Quản Án</h1>
+<h1 align="center">Web Quán Ăn</h1>
 
 <p align="center">
   <img src="https://example.com/your-logo.png" alt="Logo">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#tính-năng-chính">Tính năng chính</a> •
+  <a href="#tính-năng-chính">Đặt Món</a> •
   <a href="#yêu-cầu">Yêu cầu</a> •
   <a href="#cách-cài-đặt">Cách cài đặt</a> •
   <a href="#cách-sử-dụng">Cách sử dụng</a> •
